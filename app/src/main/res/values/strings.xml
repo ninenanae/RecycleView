@@ -1,0 +1,21 @@
+<resources>
+    
+    <string name="app_name">RecycleView</string>
+
+    <string-array name="book_titles">
+        <item>Книга 1</item>
+        <item>Книга 2</item>
+        <item>Книга 3</item>
+        <item>Книга 4</item>
+        <item>Книга 5</item>
+    </string-array>
+
+    <string-array name="book_descriptions">
+        <item>Описание книги 1</item>
+        <item>Описание книги 2</item>
+        <item>Описание книги 3</item>
+        <item>Описание книги 4</item>
+        <item>Описание книги 5</item>
+    </string-array>
+
+</resources>
